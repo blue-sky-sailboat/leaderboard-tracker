@@ -1,62 +1,63 @@
-﻿team,2026-07-03 03시,2026-07-03 04시,2026-07-03 05시
-BONOBONO,1,1,1
-COIS,2,2,2
-OGiC,3,3,3
-Optimus Prime,4,4,4
-m&c_420,5,5,5
-manggo,6,6,6
-phoenix,7,7,7
-tishii24,8,8,8
-古法编程,9,9,9
-나무늘보,10,10,10
-Agent H,11,11,11
-BayOpt,12,12,12
-DARIAN,13,13,13
-HermioneL,14,14,14
-ILoveProblems,15,15,15
-OPTWIN,16,16,16
-abc,18,17,17
-coffee_nap,27,18,18
-dodos,19,19,19
-tsukammo,20,20,20
-AmazeAmazeAmaze,21,21,21
-DH99,22,22,22
-ESI,23,23,23
-MSS,24,24,24
-NCIA,25,25,25
-SOLSOL,26,26,26
-YDG,17,27,27
-jiaojing,28,28,28
-건영식,29,29,29
-바나나맛우유,30,30,30
-Baeptima,31,31,31
-Chao,32,32,32
-DataNinja,33,33,33
-Hortons,34,34,34
-IDBLAB,35,35,35
-OPTLSL,36,36,36
-Shadow,37,37,37
-TheFactoryMustGrow,38,38,38
-room204,39,39,39
-무근본바이브코더,40,40,40
-312,41,41,41
-Hamiltonian,43,42,42
-MSGA,44,43,43
-alvarOpt,45,44,44
-coco,57,45,45
-hee,46,46,46
-kgu_mis_21,47,47,47
-kyisaiah47,48,48,48
-no idea,49,49,49
-인간계최강자,50,50,50
-AC,51,51,51
-Issyk Cool,,52,52
-MAPS,52,53,53
-OptiFrame,53,54,54
-PriPhase,54,55,55
-SDOlab,55,56,56
-The Green Nuggets,56,57,57
-냠냐옹,58,58,58
-최적화물주먹,59,59,59
-힘내자,60,60,60
-BlackBox,42,,
+﻿team,2026-07-03 03시,2026-07-03 04시,2026-07-03 05시,2026-07-03 07시
+BONOBONO,1,1,1,1
+COIS,2,2,2,2
+OGiC,3,3,3,3
+Optimus Prime,4,4,4,4
+m&c_420,5,5,5,5
+manggo,6,6,6,6
+phoenix,7,7,7,7
+tishii24,8,8,8,8
+古法编程,9,9,9,9
+나무늘보,10,10,10,10
+Agent H,11,11,11,11
+BayOpt,12,12,12,12
+HermioneL,14,14,14,13
+ILoveProblems,15,15,15,14
+KS,,,,15
+OPTWIN,16,16,16,16
+abc,18,17,17,17
+coffee_nap,27,18,18,18
+dodos,19,19,19,19
+tsukammo,20,20,20,20
+무근본바이브코더,40,40,40,21
+DARIAN,13,13,13,22
+DH99,22,22,22,23
+ESI,23,23,23,24
+MSS,24,24,24,25
+NCIA,25,25,25,26
+SOLSOL,26,26,26,27
+YDG,17,27,27,28
+jiaojing,28,28,28,29
+건영식,29,29,29,30
+바나나맛우유,30,30,30,31
+AmazeAmazeAmaze,21,21,21,32
+Baeptima,31,31,31,33
+Chao,32,32,32,34
+DataNinja,33,33,33,35
+Hortons,34,34,34,36
+IDBLAB,35,35,35,37
+OPTLSL,36,36,36,38
+Shadow,37,37,37,39
+TheFactoryMustGrow,38,38,38,40
+room204,39,39,39,41
+312,41,41,41,42
+Hamiltonian,43,42,42,43
+MSGA,44,43,43,44
+alvarOpt,45,44,44,45
+coco,57,45,45,46
+hee,46,46,46,47
+kgu_mis_21,47,47,47,48
+kyisaiah47,48,48,48,49
+no idea,49,49,49,50
+인간계최강자,50,50,50,51
+AC,51,51,51,52
+Issyk Cool,,52,52,53
+MAPS,52,53,53,54
+OptiFrame,53,54,54,55
+PriPhase,54,55,55,56
+SDOlab,55,56,56,57
+The Green Nuggets,56,57,57,58
+냠냐옹,58,58,58,59
+최적화물주먹,59,59,59,60
+힘내자,60,60,60,
+BlackBox,42,,,
