@@ -6,7 +6,7 @@ from datetime import datetime
 from urllib.request import Request, urlopen
 from zoneinfo import ZoneInfo
 
-TOP_N = 60
+TOP_N = 200
 OUT_CSV = "leaderboard_log.csv"
 BASE_URL = "https://d32m8h9cownzsg.cloudfront.net/public/leaderboard_group/latest.json"
 
