@@ -1,63 +1,201 @@
-﻿team,2026-07-03 03시,2026-07-03 04시,2026-07-03 05시,2026-07-03 07시
-BONOBONO,1,1,1,1
-COIS,2,2,2,2
-OGiC,3,3,3,3
-Optimus Prime,4,4,4,4
-m&c_420,5,5,5,5
-manggo,6,6,6,6
-phoenix,7,7,7,7
-tishii24,8,8,8,8
-古法编程,9,9,9,9
-나무늘보,10,10,10,10
-Agent H,11,11,11,11
-BayOpt,12,12,12,12
-HermioneL,14,14,14,13
-ILoveProblems,15,15,15,14
-KS,,,,15
-OPTWIN,16,16,16,16
-abc,18,17,17,17
-coffee_nap,27,18,18,18
-dodos,19,19,19,19
-tsukammo,20,20,20,20
-무근본바이브코더,40,40,40,21
-DARIAN,13,13,13,22
-DH99,22,22,22,23
-ESI,23,23,23,24
-MSS,24,24,24,25
-NCIA,25,25,25,26
-SOLSOL,26,26,26,27
-YDG,17,27,27,28
-jiaojing,28,28,28,29
-건영식,29,29,29,30
-바나나맛우유,30,30,30,31
-AmazeAmazeAmaze,21,21,21,32
-Baeptima,31,31,31,33
-Chao,32,32,32,34
-DataNinja,33,33,33,35
-Hortons,34,34,34,36
-IDBLAB,35,35,35,37
-OPTLSL,36,36,36,38
-Shadow,37,37,37,39
-TheFactoryMustGrow,38,38,38,40
-room204,39,39,39,41
-312,41,41,41,42
-Hamiltonian,43,42,42,43
-MSGA,44,43,43,44
-alvarOpt,45,44,44,45
-coco,57,45,45,46
-hee,46,46,46,47
-kgu_mis_21,47,47,47,48
-kyisaiah47,48,48,48,49
-no idea,49,49,49,50
-인간계최강자,50,50,50,51
-AC,51,51,51,52
-Issyk Cool,,52,52,53
-MAPS,52,53,53,54
-OptiFrame,53,54,54,55
-PriPhase,54,55,55,56
-SDOlab,55,56,56,57
-The Green Nuggets,56,57,57,58
-냠냐옹,58,58,58,59
-최적화물주먹,59,59,59,60
-힘내자,60,60,60,
-BlackBox,42,,,
+﻿team,2026-07-03 03시,2026-07-03 04시,2026-07-03 05시,2026-07-03 07시,2026-07-03 09시
+BONOBONO,1,1,1,1,1
+COIS,2,2,2,2,2
+OGiC,3,3,3,3,3
+Optimus Prime,4,4,4,4,4
+m&c_420,5,5,5,5,5
+manggo,6,6,6,6,6
+phoenix,7,7,7,7,7
+tishii24,8,8,8,8,8
+古法编程,9,9,9,9,9
+나무늘보,10,10,10,10,10
+Agent H,11,11,11,11,11
+BayOpt,12,12,12,12,12
+HermioneL,14,14,14,13,13
+ILoveProblems,15,15,15,14,14
+KS,,,,15,15
+OPTWIN,16,16,16,16,16
+abc,18,17,17,17,17
+coffee_nap,27,18,18,18,18
+dodos,19,19,19,19,19
+무근본바이브코더,40,40,40,21,20
+DARIAN,13,13,13,22,21
+DH99,22,22,22,23,22
+MSS,24,24,24,25,23
+NCIA,25,25,25,26,24
+SOLSOL,26,26,26,27,25
+YDG,17,27,27,28,26
+jiaojing,28,28,28,29,27
+tsukammo,20,20,20,20,28
+건영식,29,29,29,30,29
+바나나맛우유,30,30,30,31,30
+AmazeAmazeAmaze,21,21,21,32,31
+Baeptima,31,31,31,33,32
+Chao,32,32,32,34,33
+DataNinja,33,33,33,35,34
+ESI,23,23,23,24,35
+Hortons,34,34,34,36,36
+OPTLSL,36,36,36,38,37
+Shadow,37,37,37,39,38
+TheFactoryMustGrow,38,38,38,40,39
+room204,39,39,39,41,40
+312,41,41,41,42,41
+Hamiltonian,43,42,42,43,42
+IDBLAB,35,35,35,37,43
+MSGA,44,43,43,44,44
+alvarOpt,45,44,44,45,45
+hee,46,46,46,47,46
+kgu_mis_21,47,47,47,48,47
+kyisaiah47,48,48,48,49,48
+no idea,49,49,49,50,49
+인간계최강자,50,50,50,51,50
+AC,51,51,51,52,51
+ChatOPT,,,,,52
+MAPS,52,53,53,54,53
+OptiFrame,53,54,54,55,54
+PriPhase,54,55,55,56,55
+SDOlab,55,56,56,57,56
+The Green Nuggets,56,57,57,58,57
+coco,57,45,45,46,58
+냠냐옹,58,58,58,59,59
+최적화물주먹,59,59,59,60,60
+Bongoose Brothers,,,,,61
+GrandOptima,,,,,62
+Issyk Cool,,52,52,53,63
+Munshi-PremChand,,,,,64
+OPTALL,,,,,65
+PACK TO THE FUTURE,,,,,66
+Smoop,,,,,67
+天狐紫吹,,,,,68
+최대난제,,,,,69
+힘내자,60,60,60,,70
+BlackBox,42,,,,71
+CODeS-KULEUVEN,,,,,72
+Cook,,,,,73
+Optmax,,,,,74
+SIT,,,,,75
+The Reverend,,,,,76
+Trough,,,,,77
+XYDT,,,,,78
+yc,,,,,79
+명량,,,,,80
+Efficiency,,,,,81
+Global optimum,,,,,82
+HITOORI,,,,,83
+Inetis,,,,,84
+Prove it,,,,,85
+mg,,,,,86
+qwer,,,,,87
+여기서 끝이 아니다,,,,,88
+음냐음,,,,,89
+제가요?,,,,,90
+AC_TUWien,,,,,91
+AIOPT,,,,,92
+Bunnies,,,,,93
+PequiOpt,,,,,94
+Pontoon Docks Intel,,,,,95
+REMORSE,,,,,96
+몽글쓰돈까쓰,,,,,97
+뱃고동뿌이뿌이,,,,,98
+언젠간 이김용,,,,,99
+학부연구생나부랭이,,,,,100
+Anh's Left Arm,,,,,101
+Kancho,,,,,102
+Optimal_1126,,,,,103
+Prismatic Augment,,,,,104
+RALUB,,,,,105
+Virtioz,,,,,106
+권창한,,,,,107
+독도는 한국땅,,,,,108
+지예아,,,,,109
+팔달관~야호~✩✩,,,,,110
+Branch&Bound,,,,,111
+CJMCJM,,,,,112
+Diget,,,,,113
+Emart 거창소만점,,,,,114
+First Penguin,,,,,115
+Gooday,,,,,116
+JW,,,,,117
+Optimelody,,,,,118
+SUNPACE,,,,,119
+StackOverflow,,,,,120
+Bearcat Forge,,,,,121
+CUFE,,,,,122
+Logistics,,,,,123
+MondayIsAlmostHere,,,,,124
+RASK,,,,,125
+overfit_alone,,,,,126
+win,,,,,127
+미니언즈랩스(Minions Labs),,,,,128
+아주 동국이 만만하지?,,,,,129
+해기들,,,,,130
+Abel1011,,,,,131
+Hacksagon,,,,,132
+IISL,,,,,133
+PETOPIA AI,,,,,134
+SMETYSON,,,,,135
+Soeun,,,,,136
+apex,,,,,137
+opt-agent,,,,,138
+센스있게 지어봐,,,,,139
+수동눈깜빡임,,,,,140
+Boksiri,,,,,141
+CHIVAS,,,,,142
+CSI,,,,,143
+Cristiano Ronaldo,,,,,144
+Lemon,,,,,145
+MANGO,,,,,146
+OpenMind,,,,,147
+kaisaZeri,,,,,148
+김지동,,,,,149
+심심한데 스케쥴링이나해야겠다~,,,,,150
+404 Job Not Found,,,,,151
+Big-3,,,,,152
+CrunchySlime,,,,,153
+DanG,,,,,154
+HOLYMOLY,,,,,155
+nobody,,,,,156
+나혼자만레벨업,,,,,157
+무적야호,,,,,158
+미아맨,,,,,159
+차돌목살,,,,,160
+Black Cow v5.0,,,,,161
+Black dragon,,,,,162
+Hephaestus,,,,,163
+MARU,,,,,164
+OptIntern,,,,,165
+Rocket,,,,,166
+ToniTeam,,,,,167
+bigtree,,,,,168
+lovelim,,,,,169
+거북이는빠르다,,,,,170
+ESC날벌레들,,,,,171
+ETA0721,,,,,172
+JTC,,,,,173
+KYM,,,,,174
+LJM,,,,,175
+Lars,,,,,176
+PDS1,,,,,177
+Whynot,,,,,178
+ptokos,,,,,179
+고양이새우,,,,,180
+모민하,,,,,181
+연희동호랑이,,,,,182
+이론상 가능합니다.,,,,,183
+BMART,,,,,184
+Blockbuster,,,,,185
+First Time,,,,,186
+HKUSTGZ-INTR,,,,,187
+Mobile,,,,,188
+MyGo,,,,,189
+Oooy,,,,,190
+밴딧단,,,,,191
+야호,,,,,192
+클사남,,,,,193
+Apple Pie,,,,,194
+Chioh Lee,,,,,195
+IG,,,,,196
+Team name,,,,,197
+Wooo,,,,,198
+YoungCSD,,,,,199
+amuse5516,,,,,200
